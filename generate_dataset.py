@@ -6,7 +6,7 @@ from random import randint
 from tqdm import tqdm
 from functools import reduce
 
-DATASET_LOCATION = 'English/Hnd/Img'
+DATASET_LOCATION = '/English/Hnd/Img'
 
 
 def save_variant(variant, img_path, prefix):
